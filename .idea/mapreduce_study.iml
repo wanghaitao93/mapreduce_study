@@ -5,5 +5,58 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/hadoop/share/hadoop/mapreduce" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/mapreduce" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/hadoop/share/hadoop/yarn" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/yarn" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/hadoop/share/hadoop/common" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/common" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/hadoop/share/hadoop/hdfs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/hdfs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/hadoop/share/hadoop/common/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///usr/local/hadoop/share/hadoop/common/lib" />
+        </SOURCES>
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/common/lib" recursive="false" />
+        <jarDirectory url="file:///usr/local/hadoop/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>

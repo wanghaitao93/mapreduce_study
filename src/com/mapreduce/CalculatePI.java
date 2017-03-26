@@ -22,7 +22,7 @@ public class CalculatePI {
 
         private final static IntWritable one = new IntWritable(1);
         private final static IntWritable zero = new IntWritable(0);
-
+;
         private static Random random = new Random();
         private Text word = new Text();
 

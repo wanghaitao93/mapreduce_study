@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mapreduce_study.iml" filepath="$PROJECT_DIR$/.idea/mapreduce_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce_study.iml" filepath="$PROJECT_DIR$/mapreduce_study.iml" />
     </modules>
   </component>
 </project>
